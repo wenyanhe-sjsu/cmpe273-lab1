@@ -1,0 +1,13 @@
+Output for http_call.py
+
+Sun, 02 Sep 2018 00:24:24 GMT
+Sun, 02 Sep 2018 00:24:24 GMT
+Sun, 02 Sep 2018 00:24:25 GMT
+
+
+
+Output for http_async_call.py
+
+Sun, 02 Sep 2018 00:27:45 GMT
+Sun, 02 Sep 2018 00:27:45 GMT
+Sun, 02 Sep 2018 00:27:50 GMT
